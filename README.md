@@ -1,23 +1,22 @@
 # Flutter Clock Challenge Submission - Akshat [app_clock]
 This app is a submission for the [Flutter Clock Challenge](https://flutter.dev/clock)
 
-## [LIVE HERE](https://akshatapp.github.io/clock/index.html)
+## [LIVE WEB DEMO URL](https://akshatapp.github.io/clock/index.html)
 Note : The above live demo url is a flutter web build hosted on GitHub Pages, there may be minor UI changes compared to the mobile platform (Android or iOS) user interface.
 
-Run on a physical mobile device (Android) to experience the user interface.
+**Run on a physical mobile device (Android) to experience the depth effect and the shadows in the design**
 
 ## Clock Features
 * Clock Hand Depth Effect using Light and Shadows.
 * Custom Painted Analog Clock
 * Animated Digital Clock
 
-![Clock Light](https://github.com/akshatapp/clock/blob/master/images/clock-light.gif)
-
+![Clock Light](https://github.com/akshatapp/flutter_clock/blob/master/clock-light.png)
 * Dark Mode
 * Responsive - adapts to any screen size - landscape mode only
 * Colorful UI
 
-![Clock Dark](https://github.com/akshatapp/clock/blob/master/images/clock-dark.gif)
+![Clock Dark](https://github.com/akshatapp/flutter_clock/blob/master/clock-dark.jpg)
 
 ## Accessibility
 * Turn ON TalkBack 
@@ -39,5 +38,13 @@ cd app_clock
 flutter create .
 flutter run (on Android or iOS in landscape)
 ```
+## Animated GIF - UI Demo
+Note : The 8 bit GIF image is not able to render the experience of depth effect and shadows in the animated image.
+Please use a physical device while testing to experience the depth effect and shadows in the design.
+
+![Animated Clock Light](https://github.com/akshatapp/clock/blob/master/images/clock-light.gif)
+
+![Animated Clock Dark](https://github.com/akshatapp/clock/blob/master/images/clock-dark.gif)
+
 
 Designed & Developed by Akshat Gandhi
